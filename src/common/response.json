@@ -1,0 +1,3558 @@
+{
+  "success": true,
+  "requestId": "109ee376",
+  "data": {
+    "documentId": 230,
+    "pages": [
+      {
+        "fileName": "https://ocr-inpatient-dev.s3.ap-east-1.amazonaws.com/receipts/8d0f4f3a-49fc-43a0-9dd0-e0114a291ca2.jpg",
+        "items": [
+          {
+            "netAmount": 5200,
+            "chargeDate": "11/08/2022",
+            "grossAmount": "$5,200.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.28403642773628235,
+                "left": 0.8170396685600281,
+                "width": 0.09005491435527802,
+                "height": 0.01539998035877943
+              },
+              "chargeDate": {
+                "top": 0.28355154395103455,
+                "left": 0.07978596538305283,
+                "width": 0.08299010246992111,
+                "height": 0.01539268996566534
+              },
+              "grossAmount": {
+                "top": 0.28389421105384827,
+                "left": 0.6007958054542542,
+                "width": 0.21625494956970215,
+                "height": 0.015482657589018343
+              },
+              "particularsEn": {
+                "top": 0.283695250749588,
+                "left": 0.29826346039772034,
+                "width": 0.3025439977645874,
+                "height": 0.015538638457655908
+              },
+              "particularsTc": {
+                "top": 0.2836061120033264,
+                "left": 0.16276340186595917,
+                "width": 0.13551238179206848,
+                "height": 0.01542771328240633
+              }
+            },
+            "originalIndex": 1,
+            "particularsEn": "Ward Round",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 347,
+                "value": "WARD ROUND"
+              },
+              {
+                "id": 348,
+                "value": "WARD ROUND FEE"
+              },
+              {
+                "id": 362,
+                "value": "60420 DR. WONG CHI FONG WARD ROUND FEE"
+              },
+              {
+                "id": 398,
+                "value": "6703 DR. GHAU TAT NIN (D) WARD ROUND FEE"
+              }
+            ],
+            "selected": 347
+          },
+          {
+            "netAmount": 53000,
+            "chargeDate": "11/08/2022",
+            "grossAmount": "$53,000.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.29937684535980225,
+                "left": 0.8170507550239563,
+                "width": 0.0900546982884407,
+                "height": 0.015400227159261703
+              },
+              "chargeDate": {
+                "top": 0.2988893687725067,
+                "left": 0.07979882508516312,
+                "width": 0.082989901304245,
+                "height": 0.0153929116204381
+              },
+              "grossAmount": {
+                "top": 0.29923388361930847,
+                "left": 0.6008074283599854,
+                "width": 0.21625442802906036,
+                "height": 0.015483352355659008
+              },
+              "particularsEn": {
+                "top": 0.29903385043144226,
+                "left": 0.29827579855918884,
+                "width": 0.3025432825088501,
+                "height": 0.015539639629423618
+              },
+              "particularsTc": {
+                "top": 0.29894423484802246,
+                "left": 0.16277606785297394,
+                "width": 0.13551205396652222,
+                "height": 0.015428121201694012
+              }
+            },
+            "originalIndex": 2,
+            "particularsEn": "Surgeon Fee\nHOSPITAL",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 327,
+                "value": "SURGEON FEE"
+              },
+              {
+                "id": 169,
+                "value": "HOSPITAL FEE (NO DOCTOR FEE PACKAGE) FOR INSURANCE COMPANY"
+              },
+              {
+                "id": 167,
+                "value": "HOSPITAL DOCTOR FEE"
+              },
+              {
+                "id": 168,
+                "value": "HOSPITAL EXTENSION PACKAGE (DOCTOR FEE)"
+              },
+              {
+                "id": 8,
+                "value": "ADMINISTRATIVE (HOSPITAL SERVICE)"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 170,
+                "value": "HOSPITAL SERVICE"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 237,
+                "value": "OTHERS (HOSPITAL SERVICE)"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 25,
+                "value": "ANAESTHETIST FEE (FEE ADVISORY)"
+              },
+              {
+                "id": 6,
+                "value": "ACCOMMODATION FEE (FEE ADVISORY)"
+              },
+              {
+                "id": 100,
+                "value": "DOCTOR PROCEDURE FEE (TRADITIONAL CHINESE MEDICINE CLINIC)"
+              },
+              {
+                "id": 421,
+                "value": "PSYCHIATRIST FEE"
+              },
+              {
+                "id": 101,
+                "value": "DOCTOR PROCEDURE FEE (UROLOGY)"
+              },
+              {
+                "id": 104,
+                "value": "DOCTOR'S ATTENDANCE FEE"
+              },
+              {
+                "id": 133,
+                "value": "FEE ADVISORY"
+              },
+              {
+                "id": 196,
+                "value": "MEDICATION FEE"
+              },
+              {
+                "id": 231,
+                "value": "OTHER SPECIALISTS' CONSULTATION FEE"
+              },
+              {
+                "id": 273,
+                "value": "PRIVATE DOCTORS FEE"
+              },
+              {
+                "id": 274,
+                "value": "PRIVATE DOCTORS FEE - ANAESTHESIA"
+              },
+              {
+                "id": 275,
+                "value": "PRIVATE DOCTORS FEE - ATTENDANCE"
+              },
+              {
+                "id": 276,
+                "value": "PRIVATE DOCTORS FEE - SURGERY"
+              },
+              {
+                "id": 345,
+                "value": "VALET PARKING FEE"
+              },
+              {
+                "id": 348,
+                "value": "WARD ROUND FEE"
+              },
+              {
+                "id": 353,
+                "value": "E.C.G. EXAMINATION FEE"
+              },
+              {
+                "id": 362,
+                "value": "60420 DR. WONG CHI FONG WARD ROUND FEE"
+              },
+              {
+                "id": 363,
+                "value": "TOTAL DOCTOR FEE (S)"
+              },
+              {
+                "id": 380,
+                "value": "TOTAL DOCTOR FEE"
+              },
+              {
+                "id": 398,
+                "value": "6703 DR. GHAU TAT NIN (D) WARD ROUND FEE"
+              },
+              {
+                "id": 410,
+                "value": "PROCEDURE FEE"
+              },
+              {
+                "id": 412,
+                "value": "OPERATION FEE"
+              },
+              {
+                "id": 89,
+                "value": "DOCTOR PROCEDURE FEE (BREAST)"
+              },
+              {
+                "id": 5,
+                "value": "ACCOMMODATION FEE"
+              },
+              {
+                "id": 24,
+                "value": "ANAESTHETIST FEE"
+              },
+              {
+                "id": 36,
+                "value": "CAR PARK FEE"
+              },
+              {
+                "id": 60,
+                "value": "CLINICAL PSYCHOLOGIST CONSULTATION FEE"
+              },
+              {
+                "id": 68,
+                "value": "CONSULTATION FEE"
+              },
+              {
+                "id": 77,
+                "value": "DIETITIAN CONSULTATION FEE"
+              },
+              {
+                "id": 80,
+                "value": "DOCTOR ATTENDANCE FEE"
+              },
+              {
+                "id": 81,
+                "value": "DOCTOR FEE"
+              },
+              {
+                "id": 82,
+                "value": "DOCTOR FEE (RT&O)"
+              },
+              {
+                "id": 88,
+                "value": "DOCTOR PROCEDURE FEE (BEHAVIORAL HEALTH)"
+              },
+              {
+                "id": 99,
+                "value": "DOCTOR PROCEDURE FEE (SKIN AND LASER)"
+              },
+              {
+                "id": 90,
+                "value": "DOCTOR PROCEDURE FEE (EXECUTIVE HEALTH)"
+              },
+              {
+                "id": 91,
+                "value": "DOCTOR PROCEDURE FEE (EYE & ENT)"
+              },
+              {
+                "id": 92,
+                "value": "DOCTOR PROCEDURE FEE (GENERAL SURGERY)"
+              },
+              {
+                "id": 93,
+                "value": "DOCTOR PROCEDURE FEE (OBSTETRICS & GYNAECOLOGY)"
+              },
+              {
+                "id": 94,
+                "value": "DOCTOR PROCEDURE FEE (ORTHOPAEDIC)"
+              },
+              {
+                "id": 95,
+                "value": "DOCTOR PROCEDURE FEE (OTHER)"
+              },
+              {
+                "id": 96,
+                "value": "DOCTOR PROCEDURE FEE (OTHERS)"
+              },
+              {
+                "id": 97,
+                "value": "DOCTOR PROCEDURE FEE (RADIOLOGY)"
+              },
+              {
+                "id": 98,
+                "value": "DOCTOR PROCEDURE FEE (RESPIRATORY)"
+              }
+            ],
+            "selected": 327
+          },
+          {
+            "netAmount": 16000,
+            "chargeDate": "11/08/2022",
+            "grossAmount": "$16,000.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.31471723318099976,
+                "left": 0.8170619010925293,
+                "width": 0.0900544822216034,
+                "height": 0.015400473028421402
+              },
+              "chargeDate": {
+                "top": 0.3142271339893341,
+                "left": 0.07981168478727341,
+                "width": 0.08298970758914948,
+                "height": 0.015393132343888285
+              },
+              "grossAmount": {
+                "top": 0.3145734667778015,
+                "left": 0.6008190512657166,
+                "width": 0.21625390648841855,
+                "height": 0.015484047122299671
+              },
+              "particularsEn": {
+                "top": 0.31437236070632935,
+                "left": 0.29828813672065735,
+                "width": 0.3025425374507904,
+                "height": 0.01554064080119133
+              },
+              "particularsTc": {
+                "top": 0.31428229808807373,
+                "left": 0.1627887338399887,
+                "width": 0.13551174104213717,
+                "height": 0.015428529120981692
+              }
+            },
+            "originalIndex": 3,
+            "particularsEn": "Anaesthetist Charges\nNOTICE\nCashier",
+            "particularsTc": "#",
+            "matchOptions": [
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 24,
+                "value": "ANAESTHETIST FEE"
+              },
+              {
+                "id": 25,
+                "value": "ANAESTHETIST FEE (FEE ADVISORY)"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              }
+            ],
+            "selected": 23
+          },
+          {
+            "netAmount": 730,
+            "chargeDate": "11/08/2022",
+            "grossAmount": "$730.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.3300575315952301,
+                "left": 0.8170729875564575,
+                "width": 0.09005426615476608,
+                "height": 0.015400719828903677
+              },
+              "chargeDate": {
+                "top": 0.32956480979919434,
+                "left": 0.0798245444893837,
+                "width": 0.08298950642347336,
+                "height": 0.01539335399866104
+              },
+              "grossAmount": {
+                "top": 0.3299129903316498,
+                "left": 0.6008306741714478,
+                "width": 0.216253399848938,
+                "height": 0.015484741888940334
+              },
+              "particularsEn": {
+                "top": 0.32971081137657166,
+                "left": 0.29830047488212585,
+                "width": 0.3025418221950531,
+                "height": 0.015541641972959042
+              },
+              "particularsTc": {
+                "top": 0.32962027192115784,
+                "left": 0.16280139982700348,
+                "width": 0.13551141321659088,
+                "height": 0.015428937040269377
+              }
+            },
+            "originalIndex": 4,
+            "particularsEn": "Physiotherapy Charges",
+            "particularsTc": "#",
+            "matchOptions": [
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 263,
+                "value": "PHYSIOTHERAPY"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 264
+          },
+          {
+            "netAmount": 697,
+            "chargeDate": "11/08/2022",
+            "grossAmount": "$697.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.3453977406024933,
+                "left": 0.8170840740203857,
+                "width": 0.09005405008792877,
+                "height": 0.015400966629385948
+              },
+              "chargeDate": {
+                "top": 0.3449023962020874,
+                "left": 0.07983740419149399,
+                "width": 0.08298931270837784,
+                "height": 0.0153935756534338
+              },
+              "grossAmount": {
+                "top": 0.34525245428085327,
+                "left": 0.600842297077179,
+                "width": 0.2162528783082962,
+                "height": 0.015485436655580996
+              },
+              "particularsEn": {
+                "top": 0.3450492024421692,
+                "left": 0.29831281304359436,
+                "width": 0.3025411069393158,
+                "height": 0.015542643144726752
+              },
+              "particularsTc": {
+                "top": 0.3449581563472748,
+                "left": 0.16281405091285706,
+                "width": 0.13551108539104462,
+                "height": 0.015429344959557056
+              }
+            },
+            "originalIndex": 5,
+            "particularsEn": "Pharmaceutical Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 261
+          },
+          {
+            "netAmount": 60,
+            "chargeDate": "11/08/2022",
+            "grossAmount": "$60.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.3607378900051117,
+                "left": 0.817095160484314,
+                "width": 0.09005407243967056,
+                "height": 0.015734698623418808
+              },
+              "chargeDate": {
+                "top": 0.3602399528026581,
+                "left": 0.07985026389360428,
+                "width": 0.08298938721418381,
+                "height": 0.015727225691080093
+              },
+              "grossAmount": {
+                "top": 0.3605918288230896,
+                "left": 0.6008539199829102,
+                "width": 0.21625261008739471,
+                "height": 0.01581960916519165
+              },
+              "particularsEn": {
+                "top": 0.3603875041007995,
+                "left": 0.29832515120506287,
+                "width": 0.3025406301021576,
+                "height": 0.01587710715830326
+              },
+              "particularsTc": {
+                "top": 0.36029598116874695,
+                "left": 0.16282671689987183,
+                "width": 0.13551102578639984,
+                "height": 0.015763191506266594
+              }
+            },
+            "originalIndex": 6,
+            "particularsEn": "Meal Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 463,
+                "value": "MEAL/BEVERAGE"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 189
+          }
+        ],
+        "imageWidth": 2550,
+        "imageHeight": 3300
+      },
+      {
+        "fileName": "https://ocr-inpatient-dev.s3.ap-east-1.amazonaws.com/receipts/0c64ea15-18b5-49dc-8496-c093e84dba55.jpg",
+        "items": [
+          {
+            "netAmount": 800,
+            "chargeDate": "08/08/2022",
+            "grossAmount": "$800.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.27286073565483093,
+                "left": 0.7875552773475647,
+                "width": 0.11561818420886992,
+                "height": 0.028519408777356148
+              },
+              "chargeDate": {
+                "top": 0.2719991207122803,
+                "left": 0.06937895715236664,
+                "width": 0.0903654843568802,
+                "height": 0.028481531888246536
+              },
+              "grossAmount": {
+                "top": 0.272682249546051,
+                "left": 0.638787567615509,
+                "width": 0.1487833559513092,
+                "height": 0.028558019548654556
+              },
+              "particularsEn": {
+                "top": 0.2722983956336975,
+                "left": 0.3188178837299347,
+                "width": 0.3199862241744995,
+                "height": 0.02876189723610878
+              },
+              "particularsTc": {
+                "top": 0.2721075117588043,
+                "left": 0.159725159406662,
+                "width": 0.15911108255386353,
+                "height": 0.02856563031673431
+              }
+            },
+            "originalIndex": 0,
+            "particularsEn": "Room Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 394,
+                "value": "BED/ROOM CHARGE"
+              },
+              {
+                "id": 407,
+                "value": "ENDO OPERATING ROOM"
+              },
+              {
+                "id": 406,
+                "value": "ROOM"
+              },
+              {
+                "id": 369,
+                "value": "STANDARD ROOM"
+              },
+              {
+                "id": 292,
+                "value": "ROOM CHARGE"
+              },
+              {
+                "id": 227,
+                "value": "OT ROOM CHARGE"
+              },
+              {
+                "id": 123,
+                "value": "ENDOSCOPY ROOM CHARGE"
+              },
+              {
+                "id": 122,
+                "value": "ENDOSCOPY ROOM"
+              },
+              {
+                "id": 71,
+                "value": "CVL ROOM CHARGE"
+              },
+              {
+                "id": 43,
+                "value": "CARDIO VASCULAR INTERVENTION CENTRE-ROOM"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              }
+            ],
+            "selected": 293
+          },
+          {
+            "netAmount": 1000,
+            "chargeDate": "08/08/2022",
+            "grossAmount": "$1,000.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.3012402653694153,
+                "left": 0.7875468134880066,
+                "width": 0.11561166495084764,
+                "height": 0.015498983673751354
+              },
+              "chargeDate": {
+                "top": 0.30037134885787964,
+                "left": 0.06936823576688766,
+                "width": 0.09035691618919373,
+                "height": 0.01546432450413704
+              },
+              "grossAmount": {
+                "top": 0.301060289144516,
+                "left": 0.6387786269187927,
+                "width": 0.14877663552761078,
+                "height": 0.01553847175091505
+              },
+              "particularsEn": {
+                "top": 0.30067315697669983,
+                "left": 0.3188079297542572,
+                "width": 0.3199796676635742,
+                "height": 0.01574479043483734
+              },
+              "particularsTc": {
+                "top": 0.3004806637763977,
+                "left": 0.1597147136926651,
+                "width": 0.1591031551361084,
+                "height": 0.01554837916046381
+              }
+            },
+            "originalIndex": 1,
+            "particularsEn": "Clinical Laboratory Tests",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 59,
+                "value": "CLINICAL LABORATORY TESTS"
+              },
+              {
+                "id": 58,
+                "value": "CLINICAL CHEMISTRY"
+              },
+              {
+                "id": 60,
+                "value": "CLINICAL PSYCHOLOGIST CONSULTATION FEE"
+              },
+              {
+                "id": 183,
+                "value": "LABORATORY"
+              },
+              {
+                "id": 240,
+                "value": "OTHERS (LABORATORY)"
+              },
+              {
+                "id": 403,
+                "value": "LABORATORY TEST"
+              }
+            ],
+            "selected": 59
+          },
+          {
+            "netAmount": 1025,
+            "chargeDate": "08/08/2022",
+            "grossAmount": "$1,025.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.3165987432003021,
+                "left": 0.7875385284423828,
+                "width": 0.11561184376478197,
+                "height": 0.01516581978648901
+              },
+              "chargeDate": {
+                "top": 0.3157258629798889,
+                "left": 0.06935775279998779,
+                "width": 0.0903569683432579,
+                "height": 0.01513111125677824
+              },
+              "grossAmount": {
+                "top": 0.316417932510376,
+                "left": 0.6387699246406555,
+                "width": 0.14877691864967346,
+                "height": 0.015205505304038525
+              },
+              "particularsEn": {
+                "top": 0.31602904200553894,
+                "left": 0.3187982141971588,
+                "width": 0.3199804425239563,
+                "height": 0.015412786044180391
+              },
+              "particularsTc": {
+                "top": 0.3158356845378876,
+                "left": 0.15970450639724731,
+                "width": 0.1591034233570099,
+                "height": 0.015215525403618813
+              }
+            },
+            "originalIndex": 2,
+            "particularsEn": "Treatment / Procedure",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 333,
+                "value": "TREATMENT / PROCEDURE"
+              },
+              {
+                "id": 332,
+                "value": "TREATMENT & PROCEDURE"
+              },
+              {
+                "id": 334,
+                "value": "TREATMENT / PROCEDURE (E)"
+              },
+              {
+                "id": 336,
+                "value": "TREATMENT PROCEDURE"
+              },
+              {
+                "id": 338,
+                "value": "TREATMENT/PROCEDURES"
+              },
+              {
+                "id": 251,
+                "value": "OTHERS (TREATMENT & PROCEDURE)"
+              },
+              {
+                "id": 11,
+                "value": "ADMINISTRATIVE (TREATMENT & PROCEDURE)"
+              },
+              {
+                "id": 331,
+                "value": "TREATMENT"
+              },
+              {
+                "id": 335,
+                "value": "TREATMENT PACKAGE"
+              },
+              {
+                "id": 337,
+                "value": "TREATMENT/ASSOCIATE MATERIALS"
+              },
+              {
+                "id": 277,
+                "value": "PROSTHETIC & ORTHOTIC TREATMENT"
+              },
+              {
+                "id": 420,
+                "value": "PSYCHIATRIC TREATMENT"
+              },
+              {
+                "id": 419,
+                "value": "HEART CENTRE DIAGNOSTIC / INTERVENTIONAL PROCEDURE"
+              },
+              {
+                "id": 416,
+                "value": "X-RAY FLUOROSCOPY CONTROL PROCEDURE - IN OPERATING THEATRE (FIRST HOUR)"
+              },
+              {
+                "id": 410,
+                "value": "PROCEDURE FEE"
+              },
+              {
+                "id": 177,
+                "value": "INTERVENTION PROCEDURE"
+              },
+              {
+                "id": 101,
+                "value": "DOCTOR PROCEDURE FEE (UROLOGY)"
+              },
+              {
+                "id": 100,
+                "value": "DOCTOR PROCEDURE FEE (TRADITIONAL CHINESE MEDICINE CLINIC)"
+              },
+              {
+                "id": 99,
+                "value": "DOCTOR PROCEDURE FEE (SKIN AND LASER)"
+              },
+              {
+                "id": 98,
+                "value": "DOCTOR PROCEDURE FEE (RESPIRATORY)"
+              },
+              {
+                "id": 97,
+                "value": "DOCTOR PROCEDURE FEE (RADIOLOGY)"
+              },
+              {
+                "id": 96,
+                "value": "DOCTOR PROCEDURE FEE (OTHERS)"
+              },
+              {
+                "id": 95,
+                "value": "DOCTOR PROCEDURE FEE (OTHER)"
+              },
+              {
+                "id": 94,
+                "value": "DOCTOR PROCEDURE FEE (ORTHOPAEDIC)"
+              },
+              {
+                "id": 93,
+                "value": "DOCTOR PROCEDURE FEE (OBSTETRICS & GYNAECOLOGY)"
+              },
+              {
+                "id": 92,
+                "value": "DOCTOR PROCEDURE FEE (GENERAL SURGERY)"
+              },
+              {
+                "id": 91,
+                "value": "DOCTOR PROCEDURE FEE (EYE & ENT)"
+              },
+              {
+                "id": 90,
+                "value": "DOCTOR PROCEDURE FEE (EXECUTIVE HEALTH)"
+              },
+              {
+                "id": 89,
+                "value": "DOCTOR PROCEDURE FEE (BREAST)"
+              },
+              {
+                "id": 88,
+                "value": "DOCTOR PROCEDURE FEE (BEHAVIORAL HEALTH)"
+              },
+              {
+                "id": 42,
+                "value": "CARDIO VASCULAR INTERVENTION CENTRE-PROCEDURE"
+              }
+            ],
+            "selected": 333
+          },
+          {
+            "netAmount": 300,
+            "chargeDate": "08/08/2022",
+            "grossAmount": "$300.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.3316234350204468,
+                "left": 0.787530243396759,
+                "width": 0.1156122013926506,
+                "height": 0.01516653597354889
+              },
+              "chargeDate": {
+                "top": 0.33074668049812317,
+                "left": 0.06934726238250732,
+                "width": 0.09035724401474,
+                "height": 0.015131690539419653
+              },
+              "grossAmount": {
+                "top": 0.33144181966781616,
+                "left": 0.6387611627578735,
+                "width": 0.14877736568450928,
+                "height": 0.01520640030503273
+              },
+              "particularsEn": {
+                "top": 0.33105120062828064,
+                "left": 0.3187884986400604,
+                "width": 0.3199814260005951,
+                "height": 0.015414604917168616
+              },
+              "particularsTc": {
+                "top": 0.33085697889328003,
+                "left": 0.15969429910182953,
+                "width": 0.15910391509532928,
+                "height": 0.015216476283967497
+              }
+            },
+            "originalIndex": 3,
+            "particularsEn": "Admission Service",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 13,
+                "value": "ADMISSION SERVICE"
+              },
+              {
+                "id": 12,
+                "value": "ADMISSION (TNP)"
+              },
+              {
+                "id": 409,
+                "value": "INJECTION SERVICE"
+              },
+              {
+                "id": 346,
+                "value": "VALET PARKING SERVICE"
+              },
+              {
+                "id": 300,
+                "value": "SERVICE PACKAGE (DR)"
+              },
+              {
+                "id": 299,
+                "value": "SERVICE PACKAGE (ANAE)"
+              },
+              {
+                "id": 298,
+                "value": "SERVICE PACKAGE"
+              },
+              {
+                "id": 297,
+                "value": "SERVICE (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 296,
+                "value": "SERVICE"
+              },
+              {
+                "id": 237,
+                "value": "OTHERS (HOSPITAL SERVICE)"
+              },
+              {
+                "id": 220,
+                "value": "OPTOMETRIST SERVICE"
+              },
+              {
+                "id": 170,
+                "value": "HOSPITAL SERVICE"
+              },
+              {
+                "id": 152,
+                "value": "GMC NURSING SERVICE (TNP)"
+              },
+              {
+                "id": 78,
+                "value": "DIETITIC SERVICE"
+              },
+              {
+                "id": 72,
+                "value": "CYTOTOXIC SERVICE (MEDICATION)"
+              },
+              {
+                "id": 67,
+                "value": "CONSIGNMENT: MATERIAL & SERVICE"
+              },
+              {
+                "id": 57,
+                "value": "CLINIC RAD SERVICE"
+              },
+              {
+                "id": 56,
+                "value": "CLINIC LAB SERVICE"
+              },
+              {
+                "id": 48,
+                "value": "CARPARK SERVICE"
+              },
+              {
+                "id": 26,
+                "value": "AUDIOLOGY SERVICE"
+              },
+              {
+                "id": 8,
+                "value": "ADMINISTRATIVE (HOSPITAL SERVICE)"
+              }
+            ],
+            "selected": 13
+          },
+          {
+            "netAmount": 34060,
+            "chargeDate": "08/08/2022",
+            "grossAmount": "$34,060.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.3466482162475586,
+                "left": 0.7875217795372009,
+                "width": 0.11561273783445358,
+                "height": 0.015501152724027634
+              },
+              "chargeDate": {
+                "top": 0.3457675874233246,
+                "left": 0.06933654844760895,
+                "width": 0.09035775065422058,
+                "height": 0.015466080978512764
+              },
+              "grossAmount": {
+                "top": 0.3464657962322235,
+                "left": 0.6387522220611572,
+                "width": 0.1487780213356018,
+                "height": 0.015541181899607182
+              },
+              "particularsEn": {
+                "top": 0.3460734486579895,
+                "left": 0.31877854466438293,
+                "width": 0.3199826180934906,
+                "height": 0.01575029268860817
+              },
+              "particularsTc": {
+                "top": 0.34587836265563965,
+                "left": 0.15968386828899384,
+                "width": 0.1591046303510666,
+                "height": 0.015551256947219372
+              }
+            },
+            "originalIndex": 4,
+            "particularsEn": "Consumable Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 69
+          },
+          {
+            "netAmount": 3629,
+            "chargeDate": "08/08/2022",
+            "grossAmount": "$3,629.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.3620069921016693,
+                "left": 0.787513256072998,
+                "width": 0.11561309546232224,
+                "height": 0.01550188660621643
+              },
+              "chargeDate": {
+                "top": 0.36112236976623535,
+                "left": 0.06932582706212997,
+                "width": 0.09035803377628326,
+                "height": 0.015466676093637943
+              },
+              "grossAmount": {
+                "top": 0.3618237376213074,
+                "left": 0.6387432813644409,
+                "width": 0.14877848327159882,
+                "height": 0.015542098321020603
+              },
+              "particularsEn": {
+                "top": 0.3614296317100525,
+                "left": 0.31876859068870544,
+                "width": 0.3199836015701294,
+                "height": 0.01575215347111225
+              },
+              "particularsTc": {
+                "top": 0.3612336814403534,
+                "left": 0.15967342257499695,
+                "width": 0.159105122089386,
+                "height": 0.01555223111063242
+              }
+            },
+            "originalIndex": 5,
+            "particularsEn": "Pharmaceutical Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 261
+          },
+          {
+            "netAmount": 200,
+            "chargeDate": "08/08/2022",
+            "grossAmount": "$200.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.3773658275604248,
+                "left": 0.7875051498413086,
+                "width": 0.11561308801174164,
+                "height": 0.014834810048341753
+              },
+              "chargeDate": {
+                "top": 0.37647727131843567,
+                "left": 0.06931557506322861,
+                "width": 0.09035784751176834,
+                "height": 0.014799637719988825
+              },
+              "grossAmount": {
+                "top": 0.3771817684173584,
+                "left": 0.6387346982955933,
+                "width": 0.1487785577774048,
+                "height": 0.014875232242047788
+              },
+              "particularsEn": {
+                "top": 0.37678590416908264,
+                "left": 0.31875908374786377,
+                "width": 0.31998416781425476,
+                "height": 0.01508626714348793
+              },
+              "particularsTc": {
+                "top": 0.3765890598297119,
+                "left": 0.15966343879699707,
+                "width": 0.15910516679286957,
+                "height": 0.014885534532368183
+              }
+            },
+            "originalIndex": 6,
+            "particularsEn": "Companion Bed",
+            "particularsTc": "H",
+            "matchOptions": [
+              {
+                "id": 28,
+                "value": "BED CHARGE"
+              },
+              {
+                "id": 394,
+                "value": "BED/ROOM CHARGE"
+              }
+            ],
+            "selected": 28
+          },
+          {
+            "netAmount": 48,
+            "chargeDate": "08/08/2022",
+            "grossAmount": "$48.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.3920570015907288,
+                "left": 0.7874968647956848,
+                "width": 0.11561361700296402,
+                "height": 0.015169414691627026
+              },
+              "chargeDate": {
+                "top": 0.3911646604537964,
+                "left": 0.06930509209632874,
+                "width": 0.09035835415124892,
+                "height": 0.01513402070850134
+              },
+              "grossAmount": {
+                "top": 0.3918721675872803,
+                "left": 0.638725996017456,
+                "width": 0.14877919852733612,
+                "height": 0.015209998935461044
+              },
+              "particularsEn": {
+                "top": 0.3914746046066284,
+                "left": 0.3187493681907654,
+                "width": 0.31998535990715027,
+                "height": 0.015421918593347073
+              },
+              "particularsTc": {
+                "top": 0.3912769258022308,
+                "left": 0.15965323150157928,
+                "width": 0.15910586714744568,
+                "height": 0.015220298431813715
+              }
+            },
+            "originalIndex": 7,
+            "particularsEn": "Meal Charges\nUNION",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 463,
+                "value": "MEAL/BEVERAGE"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 189
+          },
+          {
+            "netAmount": 14750,
+            "chargeDate": "08/08/2022",
+            "grossAmount": "$14,750.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.4070821702480316,
+                "left": 0.7874884009361267,
+                "width": 0.1156141608953476,
+                "height": 0.015504039824008942
+              },
+              "chargeDate": {
+                "top": 0.40618592500686646,
+                "left": 0.06929437071084976,
+                "width": 0.09035886079072952,
+                "height": 0.015468420460820198
+              },
+              "grossAmount": {
+                "top": 0.4068965017795563,
+                "left": 0.6387170553207397,
+                "width": 0.14877985417842865,
+                "height": 0.015544788911938667
+              },
+              "particularsEn": {
+                "top": 0.40649721026420593,
+                "left": 0.3187394440174103,
+                "width": 0.3199865520000458,
+                "height": 0.015757614746689796
+              },
+              "particularsTc": {
+                "top": 0.4062986671924591,
+                "left": 0.1596428006887436,
+                "width": 0.15910658240318298,
+                "height": 0.015555087476968764
+              }
+            },
+            "originalIndex": 8,
+            "particularsEn": "OT Room Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 394,
+                "value": "BED/ROOM CHARGE"
+              },
+              {
+                "id": 407,
+                "value": "ENDO OPERATING ROOM"
+              },
+              {
+                "id": 406,
+                "value": "ROOM"
+              },
+              {
+                "id": 369,
+                "value": "STANDARD ROOM"
+              },
+              {
+                "id": 292,
+                "value": "ROOM CHARGE"
+              },
+              {
+                "id": 227,
+                "value": "OT ROOM CHARGE"
+              },
+              {
+                "id": 123,
+                "value": "ENDOSCOPY ROOM CHARGE"
+              },
+              {
+                "id": 122,
+                "value": "ENDOSCOPY ROOM"
+              },
+              {
+                "id": 71,
+                "value": "CVL ROOM CHARGE"
+              },
+              {
+                "id": 43,
+                "value": "CARDIO VASCULAR INTERVENTION CENTRE-ROOM"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              }
+            ],
+            "selected": 228
+          },
+          {
+            "netAmount": 4235,
+            "chargeDate": "08/08/2022",
+            "grossAmount": "$4,235.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.422441303730011,
+                "left": 0.7874799370765686,
+                "width": 0.11561451852321623,
+                "height": 0.01550477370619774
+              },
+              "chargeDate": {
+                "top": 0.42154112458229065,
+                "left": 0.06928364932537079,
+                "width": 0.0903591439127922,
+                "height": 0.015469014644622804
+              },
+              "grossAmount": {
+                "top": 0.4222548305988312,
+                "left": 0.6387081146240234,
+                "width": 0.14878031611442566,
+                "height": 0.015545705333352087
+              },
+              "particularsEn": {
+                "top": 0.42185378074646,
+                "left": 0.3187294900417328,
+                "width": 0.31998753547668457,
+                "height": 0.015759475529193878
+              },
+              "particularsTc": {
+                "top": 0.4216543436050415,
+                "left": 0.1596323549747467,
+                "width": 0.15910707414150238,
+                "height": 0.015556061640381811
+              }
+            },
+            "originalIndex": 9,
+            "particularsEn": "OT Materials\nSECURITY",
+            "particularsTc": "#",
+            "matchOptions": [
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 226,
+                "value": "OT MATERIALS"
+              },
+              {
+                "id": 337,
+                "value": "TREATMENT/ASSOCIATE MATERIALS"
+              },
+              {
+                "id": 415,
+                "value": "OPERATING THEATRE MATERIALS"
+              }
+            ],
+            "selected": 215
+          },
+          {
+            "netAmount": 800,
+            "chargeDate": "09/08/2022",
+            "grossAmount": "$800.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.4514903724193573,
+                "left": 0.7874637246131897,
+                "width": 0.11561539024114607,
+                "height": 0.0158400759100914
+              },
+              "chargeDate": {
+                "top": 0.45058268308639526,
+                "left": 0.06926314532756805,
+                "width": 0.09035991132259368,
+                "height": 0.01580396480858326
+              },
+              "grossAmount": {
+                "top": 0.4513023495674134,
+                "left": 0.6386910080909729,
+                "width": 0.14878138899803162,
+                "height": 0.015881340950727463
+              },
+              "particularsEn": {
+                "top": 0.4508979320526123,
+                "left": 0.31871047616004944,
+                "width": 0.3199896514415741,
+                "height": 0.016096878796815872
+              },
+              "particularsTc": {
+                "top": 0.4506968855857849,
+                "left": 0.15961238741874695,
+                "width": 0.1591082364320755,
+                "height": 0.015891747549176216
+              }
+            },
+            "originalIndex": 11,
+            "particularsEn": "Room Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 394,
+                "value": "BED/ROOM CHARGE"
+              },
+              {
+                "id": 407,
+                "value": "ENDO OPERATING ROOM"
+              },
+              {
+                "id": 406,
+                "value": "ROOM"
+              },
+              {
+                "id": 369,
+                "value": "STANDARD ROOM"
+              },
+              {
+                "id": 292,
+                "value": "ROOM CHARGE"
+              },
+              {
+                "id": 227,
+                "value": "OT ROOM CHARGE"
+              },
+              {
+                "id": 123,
+                "value": "ENDOSCOPY ROOM CHARGE"
+              },
+              {
+                "id": 122,
+                "value": "ENDOSCOPY ROOM"
+              },
+              {
+                "id": 71,
+                "value": "CVL ROOM CHARGE"
+              },
+              {
+                "id": 43,
+                "value": "CARDIO VASCULAR INTERVENTION CENTRE-ROOM"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              }
+            ],
+            "selected": 293
+          },
+          {
+            "netAmount": 960,
+            "chargeDate": "09/08/2022",
+            "grossAmount": "$960.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.4671836793422699,
+                "left": 0.7874554395675659,
+                "width": 0.11561539024114607,
+                "height": 0.015172993764281271
+              },
+              "chargeDate": {
+                "top": 0.4662719666957855,
+                "left": 0.06925265491008759,
+                "width": 0.09035973250865936,
+                "height": 0.015136918053030968
+              },
+              "grossAmount": {
+                "top": 0.4669948220252991,
+                "left": 0.6386822462081909,
+                "width": 0.14878147840499878,
+                "height": 0.015214472077786922
+              },
+              "particularsEn": {
+                "top": 0.4665886163711548,
+                "left": 0.31870076060295105,
+                "width": 0.31999024748802185,
+                "height": 0.015431011095643044
+              },
+              "particularsTc": {
+                "top": 0.4663866460323334,
+                "left": 0.15960218012332916,
+                "width": 0.15910829603672028,
+                "height": 0.015225050039589403
+              }
+            },
+            "originalIndex": 12,
+            "particularsEn": "Treatment / Procedure",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 333,
+                "value": "TREATMENT / PROCEDURE"
+              },
+              {
+                "id": 332,
+                "value": "TREATMENT & PROCEDURE"
+              },
+              {
+                "id": 334,
+                "value": "TREATMENT / PROCEDURE (E)"
+              },
+              {
+                "id": 336,
+                "value": "TREATMENT PROCEDURE"
+              },
+              {
+                "id": 338,
+                "value": "TREATMENT/PROCEDURES"
+              },
+              {
+                "id": 251,
+                "value": "OTHERS (TREATMENT & PROCEDURE)"
+              },
+              {
+                "id": 11,
+                "value": "ADMINISTRATIVE (TREATMENT & PROCEDURE)"
+              },
+              {
+                "id": 331,
+                "value": "TREATMENT"
+              },
+              {
+                "id": 335,
+                "value": "TREATMENT PACKAGE"
+              },
+              {
+                "id": 337,
+                "value": "TREATMENT/ASSOCIATE MATERIALS"
+              },
+              {
+                "id": 277,
+                "value": "PROSTHETIC & ORTHOTIC TREATMENT"
+              },
+              {
+                "id": 420,
+                "value": "PSYCHIATRIC TREATMENT"
+              },
+              {
+                "id": 419,
+                "value": "HEART CENTRE DIAGNOSTIC / INTERVENTIONAL PROCEDURE"
+              },
+              {
+                "id": 416,
+                "value": "X-RAY FLUOROSCOPY CONTROL PROCEDURE - IN OPERATING THEATRE (FIRST HOUR)"
+              },
+              {
+                "id": 410,
+                "value": "PROCEDURE FEE"
+              },
+              {
+                "id": 177,
+                "value": "INTERVENTION PROCEDURE"
+              },
+              {
+                "id": 101,
+                "value": "DOCTOR PROCEDURE FEE (UROLOGY)"
+              },
+              {
+                "id": 100,
+                "value": "DOCTOR PROCEDURE FEE (TRADITIONAL CHINESE MEDICINE CLINIC)"
+              },
+              {
+                "id": 99,
+                "value": "DOCTOR PROCEDURE FEE (SKIN AND LASER)"
+              },
+              {
+                "id": 98,
+                "value": "DOCTOR PROCEDURE FEE (RESPIRATORY)"
+              },
+              {
+                "id": 97,
+                "value": "DOCTOR PROCEDURE FEE (RADIOLOGY)"
+              },
+              {
+                "id": 96,
+                "value": "DOCTOR PROCEDURE FEE (OTHERS)"
+              },
+              {
+                "id": 95,
+                "value": "DOCTOR PROCEDURE FEE (OTHER)"
+              },
+              {
+                "id": 94,
+                "value": "DOCTOR PROCEDURE FEE (ORTHOPAEDIC)"
+              },
+              {
+                "id": 93,
+                "value": "DOCTOR PROCEDURE FEE (OBSTETRICS & GYNAECOLOGY)"
+              },
+              {
+                "id": 92,
+                "value": "DOCTOR PROCEDURE FEE (GENERAL SURGERY)"
+              },
+              {
+                "id": 91,
+                "value": "DOCTOR PROCEDURE FEE (EYE & ENT)"
+              },
+              {
+                "id": 90,
+                "value": "DOCTOR PROCEDURE FEE (EXECUTIVE HEALTH)"
+              },
+              {
+                "id": 89,
+                "value": "DOCTOR PROCEDURE FEE (BREAST)"
+              },
+              {
+                "id": 88,
+                "value": "DOCTOR PROCEDURE FEE (BEHAVIORAL HEALTH)"
+              },
+              {
+                "id": 42,
+                "value": "CARDIO VASCULAR INTERVENTION CENTRE-PROCEDURE"
+              }
+            ],
+            "selected": 333
+          },
+          {
+            "netAmount": 460,
+            "chargeDate": "09/08/2022",
+            "grossAmount": "$460.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.48220929503440857,
+                "left": 0.7874467968940735,
+                "width": 0.115616112947464,
+                "height": 0.015841547399759293
+              },
+              "chargeDate": {
+                "top": 0.4812936782836914,
+                "left": 0.06924170255661011,
+                "width": 0.09036047756671906,
+                "height": 0.015805156901478767
+              },
+              "grossAmount": {
+                "top": 0.4820196330547333,
+                "left": 0.6386731266975403,
+                "width": 0.14878231287002563,
+                "height": 0.015883177518844604
+              },
+              "particularsEn": {
+                "top": 0.4816116988658905,
+                "left": 0.31869059801101685,
+                "width": 0.3199916481971741,
+                "height": 0.016100605949759483
+              },
+              "particularsTc": {
+                "top": 0.48140886425971985,
+                "left": 0.15959151089191437,
+                "width": 0.1591092348098755,
+                "height": 0.01589369960129261
+              }
+            },
+            "originalIndex": 13,
+            "particularsEn": "Use of Medical Equipment",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 344,
+                "value": "USE OF MEDICAL EQUIPMENT"
+              },
+              {
+                "id": 21,
+                "value": "ANAESTHESIA (USE OF EQUIPMENT)"
+              },
+              {
+                "id": 216,
+                "value": "OPERATING THEATRE (USE OF EQUIPMENT)"
+              },
+              {
+                "id": 252,
+                "value": "OTHERS (USE OF EQUIPMENT)"
+              },
+              {
+                "id": 343,
+                "value": "USE OF EQUIPMENT / INSTRUMENT"
+              },
+              {
+                "id": 367,
+                "value": "USE OF CONTINUOUS PHYSIOLOGICAL / CARDIAC MONITORING PER DAY PER DAY"
+              },
+              {
+                "id": 126,
+                "value": "EQUIPMENT"
+              },
+              {
+                "id": 175,
+                "value": "INSTRUMENT AND EQUIPMENT"
+              },
+              {
+                "id": 280,
+                "value": "RADIOLOGY ITEM (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 200,
+                "value": "MISCELLANEOUS ITEM (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 279,
+                "value": "RADIOLOGY CONSIGNMENT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 272,
+                "value": "PRINTED MATTER (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 269,
+                "value": "PLASTIC SURGERY (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 257,
+                "value": "PATHOLOGY ITEM (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 253,
+                "value": "OXYGEN THERAPY PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 241,
+                "value": "OTHERS (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 230,
+                "value": "OTHER MISC ITEM (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 223,
+                "value": "ORTHOPAEDIC PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 221,
+                "value": "ORAL PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 211,
+                "value": "O & G PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 207,
+                "value": "NEUROLOGY PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 443,
+                "value": "MEDICAL INTENSIVE CARE UNIT"
+              },
+              {
+                "id": 282,
+                "value": "RADIOTHERAPY ITEM (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 283,
+                "value": "REHAB CONSIGNMENT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 285,
+                "value": "REHABILITATION ITEM (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 288,
+                "value": "REPRODUCTIVE PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 297,
+                "value": "SERVICE (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 310,
+                "value": "SPINAL ANAESTHESIA ITEM (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 324,
+                "value": "STATIONERY (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 325,
+                "value": "STERILIZATION PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 326,
+                "value": "SUCTION PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 328,
+                "value": "SUTURE (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 329,
+                "value": "TCM (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 330,
+                "value": "THORACIC PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 340,
+                "value": "ULTRASOUND PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 342,
+                "value": "UROLOGY PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 136,
+                "value": "FOOD & BEVERAGE (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 22,
+                "value": "ANAESTHESIA PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 32,
+                "value": "BIOPSY PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 33,
+                "value": "BLADE (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 65,
+                "value": "CONSIGNMENT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 105,
+                "value": "DRAINAGE PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 106,
+                "value": "DRAPE PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 108,
+                "value": "DRESSING PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 109,
+                "value": "DRILL ACCESSORIES (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 113,
+                "value": "ELECTRODE & RECORDING PAPER (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 114,
+                "value": "ELECTROSURGICAL PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 124,
+                "value": "ENDO-SURGERY PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 125,
+                "value": "ENT PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 132,
+                "value": "EYE PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 194,
+                "value": "MEDICAL RECORD OFFICE"
+              },
+              {
+                "id": 138,
+                "value": "FURNITURE (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 140,
+                "value": "GASTROINTESTINAL PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 148,
+                "value": "GLENEAGLES MEDICAL CLINIC CENTRAL"
+              },
+              {
+                "id": 149,
+                "value": "GLOVES (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 151,
+                "value": "GMC MEDICAL SCHEME"
+              },
+              {
+                "id": 158,
+                "value": "HEART SURGERY (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 174,
+                "value": "INFORMATIVE TECHNOLOGY (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 180,
+                "value": "IV THERAPY PRODUCT (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 184,
+                "value": "LINEN & UNIFORM (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 188,
+                "value": "MASK (MEDICAL & SURGICAL SUPPLIES)"
+              },
+              {
+                "id": 191,
+                "value": "MEDICAL & SURGICAL SUPPLIES"
+              },
+              {
+                "id": 192,
+                "value": "MEDICAL CHECK UP"
+              },
+              {
+                "id": 193,
+                "value": "MEDICAL GAS"
+              }
+            ],
+            "selected": 344
+          },
+          {
+            "netAmount": 730,
+            "chargeDate": "09/08/2022",
+            "grossAmount": "$730.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.4979028105735779,
+                "left": 0.7874382734298706,
+                "width": 0.11561629176139832,
+                "height": 0.0155083779245615
+              },
+              "chargeDate": {
+                "top": 0.4969831705093384,
+                "left": 0.06923098862171173,
+                "width": 0.09036052972078323,
+                "height": 0.015471935272216795
+              },
+              "grossAmount": {
+                "top": 0.49771231412887573,
+                "left": 0.638664186000824,
+                "width": 0.14878259599208832,
+                "height": 0.01555020920932293
+              },
+              "particularsEn": {
+                "top": 0.4973025619983673,
+                "left": 0.31868064403533936,
+                "width": 0.31999245285987854,
+                "height": 0.015768619254231453
+              },
+              "particularsTc": {
+                "top": 0.4970988631248474,
+                "left": 0.15958108007907867,
+                "width": 0.15910951793193817,
+                "height": 0.015560844913125038
+              }
+            },
+            "originalIndex": 14,
+            "particularsEn": "Physiotherapy Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 263,
+                "value": "PHYSIOTHERAPY"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 264
+          },
+          {
+            "netAmount": 325,
+            "chargeDate": "09/08/2022",
+            "grossAmount": "$325.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.5132625102996826,
+                "left": 0.7874301671981812,
+                "width": 0.11561628431081772,
+                "height": 0.014841265045106413
+              },
+              "chargeDate": {
+                "top": 0.5123388767242432,
+                "left": 0.06922072917222977,
+                "width": 0.09036035090684892,
+                "height": 0.014804860576987268
+              },
+              "grossAmount": {
+                "top": 0.5130711793899536,
+                "left": 0.6386556029319763,
+                "width": 0.1487826704978943,
+                "height": 0.014883305877447128
+              },
+              "particularsEn": {
+                "top": 0.5126596689224243,
+                "left": 0.3186711370944977,
+                "width": 0.3199930191040039,
+                "height": 0.015102696605026722
+              },
+              "particularsTc": {
+                "top": 0.5124551057815552,
+                "left": 0.1595710963010788,
+                "width": 0.15910956263542175,
+                "height": 0.014894111081957815
+              }
+            },
+            "originalIndex": 15,
+            "particularsEn": "Pharmaceutical Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 261
+          },
+          {
+            "netAmount": 270.8,
+            "chargeDate": "09/08/2022",
+            "grossAmount": "$270.80",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.5279545187950134,
+                "left": 0.7874218821525574,
+                "width": 0.1156168207526207,
+                "height": 0.015175888314843178
+              },
+              "chargeDate": {
+                "top": 0.5270270705223083,
+                "left": 0.0692102462053299,
+                "width": 0.0903608500957489,
+                "height": 0.0151392612606287
+              },
+              "grossAmount": {
+                "top": 0.5277624130249023,
+                "left": 0.6386469006538391,
+                "width": 0.14878331124782562,
+                "height": 0.015218091197311878
+              },
+              "particularsEn": {
+                "top": 0.5273492336273193,
+                "left": 0.3186614215373993,
+                "width": 0.319994181394577,
+                "height": 0.015438366681337357
+              },
+              "particularsTc": {
+                "top": 0.5271437764167786,
+                "left": 0.159560889005661,
+                "width": 0.15911026298999786,
+                "height": 0.015228894539177418
+              }
+            },
+            "originalIndex": 16,
+            "particularsEn": "Meal Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 463,
+                "value": "MEAL/BEVERAGE"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 189
+          },
+          {
+            "netAmount": 800,
+            "chargeDate": "10/08/2022",
+            "grossAmount": "$800.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.5563369989395142,
+                "left": 0.7874056696891785,
+                "width": 0.115618035197258,
+                "height": 0.016179028898477554
+              },
+              "chargeDate": {
+                "top": 0.5554022789001465,
+                "left": 0.06918973475694656,
+                "width": 0.0903620719909668,
+                "height": 0.016141876578330994
+              },
+              "grossAmount": {
+                "top": 0.5561433434486389,
+                "left": 0.6386297941207886,
+                "width": 0.14878475666046145,
+                "height": 0.016221528872847557
+              },
+              "particularsEn": {
+                "top": 0.555726945400238,
+                "left": 0.31864240765571594,
+                "width": 0.3199966847896576,
+                "height": 0.016443494707345963
+              },
+              "particularsTc": {
+                "top": 0.5555198788642883,
+                "left": 0.15954092144966123,
+                "width": 0.1591118574142456,
+                "height": 0.016232268884778023
+              }
+            },
+            "originalIndex": 18,
+            "particularsEn": "Room Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 394,
+                "value": "BED/ROOM CHARGE"
+              },
+              {
+                "id": 407,
+                "value": "ENDO OPERATING ROOM"
+              },
+              {
+                "id": 406,
+                "value": "ROOM"
+              },
+              {
+                "id": 369,
+                "value": "STANDARD ROOM"
+              },
+              {
+                "id": 292,
+                "value": "ROOM CHARGE"
+              },
+              {
+                "id": 227,
+                "value": "OT ROOM CHARGE"
+              },
+              {
+                "id": 123,
+                "value": "ENDOSCOPY ROOM CHARGE"
+              },
+              {
+                "id": 122,
+                "value": "ENDOSCOPY ROOM"
+              },
+              {
+                "id": 71,
+                "value": "CVL ROOM CHARGE"
+              },
+              {
+                "id": 43,
+                "value": "CARDIO VASCULAR INTERVENTION CENTRE-ROOM"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              }
+            ],
+            "selected": 293
+          },
+          {
+            "netAmount": 175,
+            "chargeDate": "10/08/2022",
+            "grossAmount": "$175.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.572364866733551,
+                "left": 0.7873973846435547,
+                "width": 0.11561786383390428,
+                "height": 0.015178004279732704
+              },
+              "chargeDate": {
+                "top": 0.5714260339736938,
+                "left": 0.06917925179004669,
+                "width": 0.09036166965961456,
+                "height": 0.015140973962843418
+              },
+              "grossAmount": {
+                "top": 0.5721704363822937,
+                "left": 0.6386210322380066,
+                "width": 0.14878465235233307,
+                "height": 0.015220735222101212
+              },
+              "particularsEn": {
+                "top": 0.57175213098526,
+                "left": 0.31863269209861755,
+                "width": 0.31999707221984863,
+                "height": 0.015443741343915462
+              },
+              "particularsTc": {
+                "top": 0.5715441703796387,
+                "left": 0.15953069925308228,
+                "width": 0.15911169350147247,
+                "height": 0.015231703408062458
+              }
+            },
+            "originalIndex": 19,
+            "particularsEn": "Clinical Laboratory Tests",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 59,
+                "value": "CLINICAL LABORATORY TESTS"
+              },
+              {
+                "id": 58,
+                "value": "CLINICAL CHEMISTRY"
+              },
+              {
+                "id": 60,
+                "value": "CLINICAL PSYCHOLOGIST CONSULTATION FEE"
+              },
+              {
+                "id": 183,
+                "value": "LABORATORY"
+              },
+              {
+                "id": 240,
+                "value": "OTHERS (LABORATORY)"
+              },
+              {
+                "id": 403,
+                "value": "LABORATORY TEST"
+              }
+            ],
+            "selected": 59
+          },
+          {
+            "netAmount": 405,
+            "chargeDate": "10/08/2022",
+            "grossAmount": "$405.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.5873911380767822,
+                "left": 0.7873890995979309,
+                "width": 0.11561821401119232,
+                "height": 0.015178719535470009
+              },
+              "chargeDate": {
+                "top": 0.5864484310150146,
+                "left": 0.06916876137256622,
+                "width": 0.09036194533109664,
+                "height": 0.015141553245484827
+              },
+              "grossAmount": {
+                "top": 0.587195873260498,
+                "left": 0.6386122703552246,
+                "width": 0.14878511428833008,
+                "height": 0.015221630223095415
+              },
+              "particularsEn": {
+                "top": 0.5867758393287659,
+                "left": 0.3186229467391968,
+                "width": 0.3199980556964874,
+                "height": 0.015445560216903688
+              },
+              "particularsTc": {
+                "top": 0.5865669846534729,
+                "left": 0.1595204919576645,
+                "width": 0.15911218523979187,
+                "height": 0.01523265428841114
+              }
+            },
+            "originalIndex": 20,
+            "particularsEn": "Treatment / Procedure",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 333,
+                "value": "TREATMENT / PROCEDURE"
+              },
+              {
+                "id": 332,
+                "value": "TREATMENT & PROCEDURE"
+              },
+              {
+                "id": 334,
+                "value": "TREATMENT / PROCEDURE (E)"
+              },
+              {
+                "id": 336,
+                "value": "TREATMENT PROCEDURE"
+              },
+              {
+                "id": 338,
+                "value": "TREATMENT/PROCEDURES"
+              },
+              {
+                "id": 251,
+                "value": "OTHERS (TREATMENT & PROCEDURE)"
+              },
+              {
+                "id": 11,
+                "value": "ADMINISTRATIVE (TREATMENT & PROCEDURE)"
+              },
+              {
+                "id": 331,
+                "value": "TREATMENT"
+              },
+              {
+                "id": 335,
+                "value": "TREATMENT PACKAGE"
+              },
+              {
+                "id": 337,
+                "value": "TREATMENT/ASSOCIATE MATERIALS"
+              },
+              {
+                "id": 277,
+                "value": "PROSTHETIC & ORTHOTIC TREATMENT"
+              },
+              {
+                "id": 420,
+                "value": "PSYCHIATRIC TREATMENT"
+              },
+              {
+                "id": 419,
+                "value": "HEART CENTRE DIAGNOSTIC / INTERVENTIONAL PROCEDURE"
+              },
+              {
+                "id": 416,
+                "value": "X-RAY FLUOROSCOPY CONTROL PROCEDURE - IN OPERATING THEATRE (FIRST HOUR)"
+              },
+              {
+                "id": 410,
+                "value": "PROCEDURE FEE"
+              },
+              {
+                "id": 177,
+                "value": "INTERVENTION PROCEDURE"
+              },
+              {
+                "id": 101,
+                "value": "DOCTOR PROCEDURE FEE (UROLOGY)"
+              },
+              {
+                "id": 100,
+                "value": "DOCTOR PROCEDURE FEE (TRADITIONAL CHINESE MEDICINE CLINIC)"
+              },
+              {
+                "id": 99,
+                "value": "DOCTOR PROCEDURE FEE (SKIN AND LASER)"
+              },
+              {
+                "id": 98,
+                "value": "DOCTOR PROCEDURE FEE (RESPIRATORY)"
+              },
+              {
+                "id": 97,
+                "value": "DOCTOR PROCEDURE FEE (RADIOLOGY)"
+              },
+              {
+                "id": 96,
+                "value": "DOCTOR PROCEDURE FEE (OTHERS)"
+              },
+              {
+                "id": 95,
+                "value": "DOCTOR PROCEDURE FEE (OTHER)"
+              },
+              {
+                "id": 94,
+                "value": "DOCTOR PROCEDURE FEE (ORTHOPAEDIC)"
+              },
+              {
+                "id": 93,
+                "value": "DOCTOR PROCEDURE FEE (OBSTETRICS & GYNAECOLOGY)"
+              },
+              {
+                "id": 92,
+                "value": "DOCTOR PROCEDURE FEE (GENERAL SURGERY)"
+              },
+              {
+                "id": 91,
+                "value": "DOCTOR PROCEDURE FEE (EYE & ENT)"
+              },
+              {
+                "id": 90,
+                "value": "DOCTOR PROCEDURE FEE (EXECUTIVE HEALTH)"
+              },
+              {
+                "id": 89,
+                "value": "DOCTOR PROCEDURE FEE (BREAST)"
+              },
+              {
+                "id": 88,
+                "value": "DOCTOR PROCEDURE FEE (BEHAVIORAL HEALTH)"
+              },
+              {
+                "id": 42,
+                "value": "CARDIO VASCULAR INTERVENTION CENTRE-PROCEDURE"
+              }
+            ],
+            "selected": 333
+          },
+          {
+            "netAmount": 76,
+            "chargeDate": "10/08/2022",
+            "grossAmount": "$76.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.6024174690246582,
+                "left": 0.7873806357383728,
+                "width": 0.1156187504529953,
+                "height": 0.015513371676206589
+              },
+              "chargeDate": {
+                "top": 0.6014708876609802,
+                "left": 0.06915803998708725,
+                "width": 0.09036245197057724,
+                "height": 0.015475980006158352
+              },
+              "grossAmount": {
+                "top": 0.6022214293479919,
+                "left": 0.6386033296585083,
+                "width": 0.1487857550382614,
+                "height": 0.015556447207927704
+              },
+              "particularsEn": {
+                "top": 0.6017996668815613,
+                "left": 0.3186130225658417,
+                "width": 0.31999924778938293,
+                "height": 0.015781283378601074
+              },
+              "particularsTc": {
+                "top": 0.6015899777412415,
+                "left": 0.1595100611448288,
+                "width": 0.15911290049552915,
+                "height": 0.015567470341920853
+              }
+            },
+            "originalIndex": 21,
+            "particularsEn": "Consumable Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 69
+          },
+          {
+            "netAmount": 730,
+            "chargeDate": "10/08/2022",
+            "grossAmount": "$730.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.6177778244018555,
+                "left": 0.7873721718788147,
+                "width": 0.11561911553144456,
+                "height": 0.015514105558395386
+              },
+              "chargeDate": {
+                "top": 0.6168273091316223,
+                "left": 0.06914732605218887,
+                "width": 0.09036273509263992,
+                "height": 0.015476574189960957
+              },
+              "grossAmount": {
+                "top": 0.6175809502601624,
+                "left": 0.638594388961792,
+                "width": 0.14878623187541962,
+                "height": 0.015557363629341124
+              },
+              "particularsEn": {
+                "top": 0.6171574592590332,
+                "left": 0.3186030685901642,
+                "width": 0.3200002610683441,
+                "height": 0.015783144161105156
+              },
+              "particularsTc": {
+                "top": 0.6169468760490417,
+                "left": 0.1594996154308319,
+                "width": 0.15911339223384857,
+                "height": 0.0155684445053339
+              }
+            },
+            "originalIndex": 22,
+            "particularsEn": "Physiotherapy Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 263,
+                "value": "PHYSIOTHERAPY"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 264
+          },
+          {
+            "netAmount": 100,
+            "chargeDate": "10/08/2022",
+            "grossAmount": "$100.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.6331382989883423,
+                "left": 0.7873636484146118,
+                "width": 0.1156194731593132,
+                "height": 0.015514839440584184
+              },
+              "chargeDate": {
+                "top": 0.6321837902069092,
+                "left": 0.0691366046667099,
+                "width": 0.0903630182147026,
+                "height": 0.01547716837376356
+              },
+              "grossAmount": {
+                "top": 0.6329405903816223,
+                "left": 0.6385854482650757,
+                "width": 0.14878669381141665,
+                "height": 0.015558280982077122
+              },
+              "particularsEn": {
+                "top": 0.6325153112411499,
+                "left": 0.3185931444168091,
+                "width": 0.3200012445449829,
+                "height": 0.015785006806254387
+              },
+              "particularsTc": {
+                "top": 0.6323038339614868,
+                "left": 0.15948918461799622,
+                "width": 0.15911389887332916,
+                "height": 0.015569417737424374
+              }
+            },
+            "originalIndex": 23,
+            "particularsEn": "Sundries Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 23
+          },
+          {
+            "netAmount": 180,
+            "chargeDate": "10/08/2022",
+            "grossAmount": "$180.00",
+            "boundingBoxes": {
+              "netAmount": {
+                "top": 0.6484988331794739,
+                "left": 0.7873550057411194,
+                "width": 0.11562002450227736,
+                "height": 0.015849515795707703
+              },
+              "chargeDate": {
+                "top": 0.6475403904914856,
+                "left": 0.06912565231323242,
+                "width": 0.0903635323047638,
+                "height": 0.0158116165548563
+              },
+              "grossAmount": {
+                "top": 0.648300290107727,
+                "left": 0.638576328754425,
+                "width": 0.14878734946250916,
+                "height": 0.015893125906586647
+              },
+              "particularsEn": {
+                "top": 0.6478732824325562,
+                "left": 0.3185829818248749,
+                "width": 0.3200024664402008,
+                "height": 0.016120778396725655
+              },
+              "particularsTc": {
+                "top": 0.6476609706878662,
+                "left": 0.15947851538658142,
+                "width": 0.15911461412906647,
+                "height": 0.0159042626619339
+              }
+            },
+            "originalIndex": 24,
+            "particularsEn": "Meal Charges",
+            "particularsTc": "",
+            "matchOptions": [
+              {
+                "id": 189,
+                "value": "MEAL CHARGES"
+              },
+              {
+                "id": 190,
+                "value": "MEAL/BEVERAGE CHARGES"
+              },
+              {
+                "id": 463,
+                "value": "MEAL/BEVERAGE"
+              },
+              {
+                "id": 23,
+                "value": "ANAESTHETIST CHARGES"
+              },
+              {
+                "id": 69,
+                "value": "CONSUMABLE CHARGES"
+              },
+              {
+                "id": 166,
+                "value": "HOSPITAL CHARGES"
+              },
+              {
+                "id": 215,
+                "value": "OPERATIING THEATRE AND ASSOCIATED MATERIALS CHARGES"
+              },
+              {
+                "id": 228,
+                "value": "OT ROOM CHARGES"
+              },
+              {
+                "id": 229,
+                "value": "OTHER HOSPITAL CHARGES"
+              },
+              {
+                "id": 261,
+                "value": "PHARMACEUTICAL CHARGES"
+              },
+              {
+                "id": 264,
+                "value": "PHYSIOTHERAPY CHARGES"
+              },
+              {
+                "id": 293,
+                "value": "ROOM CHARGES"
+              },
+              {
+                "id": 357,
+                "value": "TOTAL HOSPITAL CHARGES"
+              },
+              {
+                "id": 397,
+                "value": "ENDOSCOPIC CHARGES-COLONOSCOPY"
+              },
+              {
+                "id": 400,
+                "value": "TOTAL CHARGES"
+              },
+              {
+                "id": 461,
+                "value": "OPERATING THEATRE CHARGES"
+              }
+            ],
+            "selected": 189
+          }
+        ],
+        "imageWidth": 2550,
+        "imageHeight": 3300
+      }
+    ]
+  }
+}
