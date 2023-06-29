@@ -92,23 +92,12 @@ export default function Home() {
           variant="outlined"
           sx={{
             borderRadius: "md",
-            maxWidth: "33%",
-            minWidth: "33%",
+            width: "50%",
+            overflow: "scroll",
             p: 3,
             boxShadow: "lg",
           }}
         >
-          <ModalClose
-            variant="outlined"
-            sx={{
-              top: "calc(-1/4 * var(--IconButton-size))",
-              right: "calc(-1/4 * var(--IconButton-size))",
-              boxShadow: "0 2px 12px 0 rgba(0 0 0 / 0.2)",
-              borderRadius: "50%",
-              bgcolor: "background.body",
-            }}
-          />
-
           <Box sx={{ display: "flex", flexDirection: "column", gap: 2 }}>
             <Typography
               component="h2"
@@ -130,20 +119,20 @@ export default function Home() {
               <Input defaultValue={defaultDataModal} sx={inputStyles} />
             </div>
             <div>
-              <label style={{ fontSize: "1rem" }} htmlFor="">
+              <label style={{ fontSize: "0.75rem" }} htmlFor="">
                 Hospital Int Code
               </label>
               <Input sx={inputStyles} />
             </div>
             <div>
-              <label style={{ fontSize: "1rem" }} htmlFor="">
+              <label style={{ fontSize: "0.75rem" }} htmlFor="">
                 Fee For
               </label>
               <Input sx={inputStyles} />
             </div>
             {Array.from(Array(5).keys()).map((element, index) => (
               <div>
-                <label style={{ fontSize: "1rem" }} htmlFor="">
+                <label style={{ fontSize: "0.75rem" }} htmlFor="">
                   {`Benefit Type ${index + 1}`}
                 </label>
                 <Input sx={inputStyles} />
@@ -192,17 +181,18 @@ export default function Home() {
             return (
               <TabPanel index={index} value={value}>
                 <Grid container spacing={2}>
-                  <Grid item xs={5}>
+                  <Grid item xs={12} md={4}>
                     <Item>
                       <img
                         width={`100%`}
                         height={`auto`}
                         src={fileName}
                         alt=""
+                        style={{ objectFit: "cover" }}
                       />
                     </Item>
                   </Grid>
-                  <Grid item xs={7}>
+                  <Grid item xs={12} md={8}>
                     <Item>
                       <TableContainer component={Paper}>
                         <Table sx={{ minWidth: 650 }} aria-label="simple table">
@@ -232,6 +222,7 @@ export default function Home() {
                                     "&:last-child td, &:last-child th": {
                                       border: 0,
                                     },
+                                    verticalAlign: "baseline",
                                   }}
                                 >
                                   <TableCell component="th" scope="row">
@@ -258,6 +249,7 @@ export default function Home() {
                                         borderRadius: `8px`,
                                         padding: 1,
                                         borderColor: "#D8D8DF",
+                                        minWidth: "200px",
                                       }}
                                     >
                                       <StackItem>{row.particular}</StackItem>
